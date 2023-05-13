@@ -1,5 +1,6 @@
-# Exp.No:3 Correlation and regression for data analysis
-## Date:
+### EX NO : 03
+### DATE  : 
+# <p align="center">Correlation and regression for data analysis</p>
 ## Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -10,7 +11,7 @@ To analyse given data using coeffificient of correlation and regression line
 
 Python
 
-## Theory:
+## Theory :
 
 Correlation describes the strength of an association between two variables, and is completely symmetrical, the correlation between A and B is the same as the correlation between B and A. However, if the two variables are related it means that when one changes by a certain amount the other changes on an average by a certain amount.  
 
@@ -59,9 +60,9 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 
 ```
-## Output:
+## Output :
 ![237577123-a650ce10-950c-4d54-8a37-cd6467b27545](https://github.com/Aashima02/Correlation_Regression/assets/93427086/819e9bce-f11a-4745-84c4-90ef1c8f8330)
 
 
-## Result:
+## Result :
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
